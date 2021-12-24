@@ -3,7 +3,7 @@
 Sou um desenvolvedor junior, trabalhando atualmente com Back end e Front end.
 
 ## Ensino 
-Hoje eu estou cursando Sistemas de informação, atualemente no segundo semestre.
+Hoje eu estou cursando Sistemas de informação, atualmente estou no segundo semestre.
 
 Cursos extra curriculares na Dio. 
 
